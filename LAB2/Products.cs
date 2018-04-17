@@ -88,6 +88,12 @@ namespace LAB2
             this.Price = vPrice;
             this.Date = vDate;
             this.Category = vCategory;
+            string text = "koko";
+        }
+
+        public string getConcac()
+        {
+            return "a";
         }
     }
 }
